@@ -1,5 +1,11 @@
 # @aws-amplify/ui
 
+## 3.0.6
+
+### Patch Changes
+
+- [#997](https://github.com/aws-amplify/amplify-ui/pull/997) [`d8a422d7c`](https://github.com/aws-amplify/amplify-ui/commit/d8a422d7ce4c62a216a19d127907a2b80eb588ab) Thanks [@ErikCH](https://github.com/ErikCH)! - Updated Xstate so users who are in the FORCE CHANGE PASSWORD state also check for setup TOTP MFA.
+
 ## 3.0.5
 
 ### Patch Changes
